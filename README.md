@@ -16,7 +16,7 @@ _Here are the links to our repositories on GitHub:_
 
 _Here are the links to our live sites hosted on GitHub Pages:_
 * [Rita's Live Link](http://ritabc.github.io/cupcake-shop)
-* [Kelli's Live Link](http://kellibrooke.io/cupcake-shop)
+* [Kelli's Live Link](http://kellibrooke.github.io/cupcake-shop)
 
 ## Support & Contact Details
 
