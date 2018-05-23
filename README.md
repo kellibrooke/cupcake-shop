@@ -1,4 +1,4 @@
-#_Cupcake Shop_
+# _Cupcake Shop_
 
 #### _A website for a cupcake shop, May 23, 2018_
 
