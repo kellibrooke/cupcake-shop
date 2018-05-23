@@ -2,3 +2,13 @@
   color: red;
   font-style: italic;
 }
+
+.best{
+  font-size:40px;
+  color:aqua;
+}
+
+img.popular-cupcakes {
+  max-height: 300px;
+  max-width: 500px;
+}
